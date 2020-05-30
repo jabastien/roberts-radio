@@ -1,12 +1,29 @@
-from gpiozero import MCP3008
+from gpiozero import Button
+from time import sleep
+from signal import pause
 
-pot1 = MCP3008(channel=0)
-pot2 = MCP3008(channel=1)
+button1_up = Button(4)
+button1_down = Button(17)
 
-while True:
-    pot1_value = pot1.value
-    pot2_value = pot2.value
+button2_up = Button(27)
+button2_down = Button(22)
 
-    print("Pot 1: " + str(pot1_value))
-    print("Pot 2: " + str(pot2_value))
-    
+button3_up = Button(5)
+button3_down = Button(6)
+
+button4_up = Button(13)
+button4_down = Button(19)
+
+player = vlc.MediaPlayer("")
+
+def play_radio_2():
+    player = vlc.MediaPlayer("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p")
+    player.play()
+
+def stop_radio_2(player):
+    player.stop()
+
+button1_down.when_pressed = play_radio_2()
+button1_up.when_pressed = stop_radio_2()
+
+pause()
