@@ -1,0 +1,718 @@
+[I 200531 20:14:48 radio2:10] Starting up the radio
+[I 200531 20:14:48 radio2:26] Playing intro
+[I 200531 20:15:47 radio2:10] Starting up the radio
+[I 200531 20:15:48 radio2:26] Playing intro
+[D 200531 20:15:51 radio2:14] Called volume thread
+[I 200531 20:16:52 radio2:10] Starting up the radio
+[I 200531 20:16:52 radio2:26] Playing intro
+[D 200531 20:16:55 radio2:14] Called volume thread
+[I 200531 20:18:37 radio2:10] Starting up the radio
+[I 200531 20:18:37 radio2:35] Playing intro
+[D 200531 20:18:41 radio2:14] Called volume thread
+[D 200531 20:18:41 radio2:27] Setting volume to 36
+[D 200531 20:18:44 radio2:27] Setting volume to 38
+[D 200531 20:18:44 radio2:27] Setting volume to 43
+[D 200531 20:18:45 radio2:27] Setting volume to 47
+[D 200531 20:18:45 radio2:27] Setting volume to 50
+[D 200531 20:18:45 radio2:27] Setting volume to 54
+[D 200531 20:18:46 radio2:27] Setting volume to 58
+[D 200531 20:18:46 radio2:27] Setting volume to 62
+[D 200531 20:18:46 radio2:27] Setting volume to 64
+[D 200531 20:18:46 radio2:27] Setting volume to 60
+[D 200531 20:18:47 radio2:27] Setting volume to 52
+[D 200531 20:18:47 radio2:27] Setting volume to 48
+[D 200531 20:18:47 radio2:27] Setting volume to 46
+[D 200531 20:18:48 radio2:27] Setting volume to 45
+[D 200531 20:18:48 radio2:27] Setting volume to 44
+[D 200531 20:18:48 radio2:27] Setting volume to 42
+[D 200531 20:18:49 radio2:27] Setting volume to 41
+[D 200531 20:18:49 radio2:27] Setting volume to 39
+[D 200531 20:18:49 radio2:27] Setting volume to 37
+[D 200531 20:18:50 radio2:27] Setting volume to 36
+[D 200531 20:18:50 radio2:27] Setting volume to 37
+[D 200531 20:18:51 radio2:27] Setting volume to 36
+[D 200531 20:18:53 radio2:27] Setting volume to 37
+[D 200531 20:18:53 radio2:27] Setting volume to 36
+[D 200531 20:18:54 radio2:27] Setting volume to 37
+[D 200531 20:18:54 radio2:27] Setting volume to 36
+[D 200531 20:18:54 radio2:27] Setting volume to 37
+[D 200531 20:18:55 radio2:27] Setting volume to 36
+[D 200531 20:18:55 radio2:27] Setting volume to 37
+[D 200531 20:18:55 radio2:27] Setting volume to 36
+[D 200531 20:18:56 radio2:27] Setting volume to 37
+[D 200531 20:18:56 radio2:27] Setting volume to 36
+[D 200531 20:18:56 radio2:27] Setting volume to 43
+[D 200531 20:18:57 radio2:27] Setting volume to 55
+[D 200531 20:18:57 radio2:27] Setting volume to 60
+[D 200531 20:18:57 radio2:27] Setting volume to 59
+[D 200531 20:19:00 radio2:27] Setting volume to 75
+[D 200531 20:19:00 radio2:27] Setting volume to 81
+[D 200531 20:19:00 radio2:27] Setting volume to 89
+[D 200531 20:19:00 radio2:27] Setting volume to 100
+[D 200531 20:19:04 radio2:27] Setting volume to 87
+[D 200531 20:19:04 radio2:27] Setting volume to 65
+[D 200531 20:19:04 radio2:27] Setting volume to 57
+[D 200531 20:19:05 radio2:27] Setting volume to 51
+[D 200531 20:19:05 radio2:27] Setting volume to 29
+[D 200531 20:19:05 radio2:27] Setting volume to 8
+[D 200531 20:19:06 radio2:27] Setting volume to 0
+[D 200531 20:19:07 radio2:27] Setting volume to 15
+[D 200531 20:19:08 radio2:27] Setting volume to 3
+[D 200531 20:19:08 radio2:27] Setting volume to 0
+[D 200531 20:19:09 radio2:27] Setting volume to 18
+[D 200531 20:19:09 radio2:27] Setting volume to 38
+[I 200531 20:25:00 radio2:11] Starting up the radio
+[I 200531 20:25:01 radio2:41] Playing intro
+[D 200531 20:25:04 radio2:23] Called volume thread
+[D 200531 20:25:04 radio2:36] Setting volume to 76
+[D 200531 20:25:04 radio2:36] Setting volume to 60
+[D 200531 20:25:05 radio2:36] Setting volume to 58
+[D 200531 20:25:05 radio2:36] Setting volume to 57
+[D 200531 20:25:05 radio2:36] Setting volume to 58
+[D 200531 20:25:12 radio2:36] Setting volume to 61
+[D 200531 20:25:12 radio2:36] Setting volume to 63
+[D 200531 20:25:12 radio2:36] Setting volume to 64
+[D 200531 20:25:13 radio2:36] Setting volume to 66
+[D 200531 20:25:13 radio2:36] Setting volume to 69
+[D 200531 20:25:13 radio2:36] Setting volume to 73
+[D 200531 20:25:14 radio2:36] Setting volume to 77
+[D 200531 20:25:14 radio2:36] Setting volume to 82
+[D 200531 20:25:14 radio2:36] Setting volume to 85
+[D 200531 20:25:15 radio2:36] Setting volume to 88
+[D 200531 20:25:15 radio2:36] Setting volume to 100
+[D 200531 20:25:17 radio2:36] Setting volume to 84
+[D 200531 20:25:17 radio2:36] Setting volume to 79
+[D 200531 20:25:17 radio2:36] Setting volume to 78
+[D 200531 20:25:18 radio2:36] Setting volume to 77
+[D 200531 20:25:18 radio2:36] Setting volume to 78
+[D 200531 20:25:23 radio2:36] Setting volume to 87
+[D 200531 20:25:23 radio2:36] Setting volume to 100
+[D 200531 20:25:24 radio2:36] Setting volume to 84
+[D 200531 20:25:24 radio2:36] Setting volume to 77
+[D 200531 20:25:24 radio2:36] Setting volume to 72
+[D 200531 20:25:25 radio2:36] Setting volume to 69
+[D 200531 20:25:25 radio2:36] Setting volume to 61
+[D 200531 20:25:27 radio2:36] Setting volume to 60
+[D 200531 20:25:27 radio2:36] Setting volume to 61
+[D 200531 20:25:31 radio2:36] Setting volume to 60
+[D 200531 20:25:31 radio2:36] Setting volume to 61
+[D 200531 20:25:34 radio2:36] Setting volume to 22
+[D 200531 20:25:34 radio2:36] Setting volume to 0
+[D 200531 20:25:36 radio2:36] Setting volume to 8
+[D 200531 20:25:37 radio2:36] Setting volume to 23
+[D 200531 20:25:37 radio2:36] Setting volume to 34
+[I 200531 20:27:53 radio2:11] Starting up the radio
+[I 200531 20:27:53 radio2:41] Playing intro
+[D 200531 20:27:57 radio2:23] Called volume thread
+[D 200531 20:27:57 radio2:36] Setting volume to 34
+[D 200531 20:27:58 radio2:36] Setting volume to 33
+[D 200531 20:27:58 radio2:36] Setting volume to 34
+[D 200531 20:28:01 radio2:36] Setting volume to 33
+[D 200531 20:28:01 radio2:36] Setting volume to 34
+[I 200531 20:28:05 radio2:75] Playing BBC Radio 2
+[I 200531 20:28:05 radio2:59] Telling volume thread to stop
+[I 200531 20:28:05 radio2:61] Joining volume_thr thread
+[D 200531 20:28:07 radio2:36] Setting volume to 33
+[D 200531 20:28:07 radio2:36] Setting volume to 34
+[D 200531 20:28:09 radio2:36] Setting volume to 33
+[D 200531 20:28:09 radio2:36] Setting volume to 34
+[D 200531 20:28:11 radio2:36] Setting volume to 33
+[D 200531 20:28:11 radio2:36] Setting volume to 34
+[D 200531 20:28:14 radio2:36] Setting volume to 33
+[D 200531 20:28:14 radio2:36] Setting volume to 34
+[I 200531 20:28:40 radio2:11] Starting up the radio
+[I 200531 20:28:40 radio2:41] Playing intro
+[D 200531 20:28:44 radio2:23] Called volume thread
+[D 200531 20:28:44 radio2:36] Setting volume to 34
+[D 200531 20:28:44 radio2:36] Setting volume to 33
+[D 200531 20:28:44 radio2:36] Setting volume to 34
+[I 200531 20:28:48 radio2:76] Playing BBC Radio 2
+[I 200531 20:28:48 radio2:60] Telling volume thread to stop
+[I 200531 20:28:48 radio2:62] Joining volume_thr thread
+[I 200531 20:28:48 radio2:64] Volume thread has finished. Starting a new one
+[D 200531 20:28:48 radio2:23] Called volume thread
+[I 200531 20:29:53 radio2:11] Starting up the radio
+[I 200531 20:29:53 radio2:43] Playing intro
+[D 200531 20:29:57 radio2:23] Started volume thread
+[D 200531 20:29:57 radio2:36] Setting volume to 53
+[D 200531 20:29:57 radio2:36] Setting volume to 39
+[D 200531 20:29:57 radio2:36] Setting volume to 38
+[D 200531 20:29:58 radio2:36] Setting volume to 50
+[D 200531 20:29:58 radio2:36] Setting volume to 56
+[D 200531 20:29:59 radio2:36] Setting volume to 57
+[D 200531 20:29:59 radio2:36] Setting volume to 56
+[I 200531 20:29:59 radio2:74] Stopping current station
+[I 200531 20:30:01 radio2:78] Playing BBC Radio 2
+[I 200531 20:30:01 radio2:62] Telling volume thread to stop
+[I 200531 20:30:01 radio2:64] Joining volume_thr thread
+[I 200531 20:30:02 radio2:41] Finishing volume thread
+[I 200531 20:30:02 radio2:66] Volume thread has finished. Starting a new one
+[D 200531 20:30:02 radio2:23] Started volume thread
+[I 200531 20:30:02 radio2:41] Finishing volume thread
+[I 200531 20:30:42 radio2:11] Starting up the radio
+[I 200531 20:30:42 radio2:43] Playing intro
+[D 200531 20:30:46 radio2:23] Started volume thread
+[D 200531 20:30:46 radio2:36] Setting volume to 56
+[D 200531 20:30:46 radio2:36] Setting volume to 57
+[D 200531 20:30:47 radio2:36] Setting volume to 56
+[I 200531 20:30:47 radio2:75] Stopping current station
+[D 200531 20:30:48 radio2:36] Setting volume to 57
+[D 200531 20:30:48 radio2:36] Setting volume to 56
+[D 200531 20:30:49 radio2:36] Setting volume to 57
+[I 200531 20:30:49 radio2:79] Playing BBC Radio 2
+[I 200531 20:30:49 radio2:62] Telling volume thread to stop
+[I 200531 20:30:49 radio2:64] Joining volume_thr thread
+[I 200531 20:30:49 radio2:41] Finishing volume thread
+[I 200531 20:30:49 radio2:66] Volume thread has finished. Starting a new one
+[D 200531 20:30:49 radio2:23] Started volume thread
+[D 200531 20:30:49 radio2:36] Setting volume to 56
+[D 200531 20:30:50 radio2:36] Setting volume to 57
+[D 200531 20:30:50 radio2:36] Setting volume to 56
+[D 200531 20:30:51 radio2:36] Setting volume to 60
+[D 200531 20:30:52 radio2:36] Setting volume to 62
+[D 200531 20:30:52 radio2:36] Setting volume to 65
+[D 200531 20:30:52 radio2:36] Setting volume to 75
+[D 200531 20:30:53 radio2:36] Setting volume to 79
+[D 200531 20:30:53 radio2:36] Setting volume to 78
+[D 200531 20:30:54 radio2:36] Setting volume to 75
+[D 200531 20:30:54 radio2:36] Setting volume to 64
+[D 200531 20:30:54 radio2:36] Setting volume to 58
+[D 200531 20:30:55 radio2:36] Setting volume to 48
+[D 200531 20:30:55 radio2:36] Setting volume to 42
+[D 200531 20:30:55 radio2:36] Setting volume to 41
+[D 200531 20:30:56 radio2:36] Setting volume to 40
+[D 200531 20:30:56 radio2:36] Setting volume to 41
+[D 200531 20:30:57 radio2:36] Setting volume to 31
+[D 200531 20:30:57 radio2:36] Setting volume to 24
+[D 200531 20:30:57 radio2:36] Setting volume to 23
+[D 200531 20:30:58 radio2:36] Setting volume to 0
+[D 200531 20:30:59 radio2:36] Setting volume to 9
+[D 200531 20:31:00 radio2:36] Setting volume to 21
+[D 200531 20:31:00 radio2:36] Setting volume to 26
+[D 200531 20:31:00 radio2:36] Setting volume to 28
+[D 200531 20:31:01 radio2:36] Setting volume to 39
+[D 200531 20:31:01 radio2:36] Setting volume to 58
+[D 200531 20:31:01 radio2:36] Setting volume to 63
+[D 200531 20:31:01 radio2:36] Setting volume to 79
+[D 200531 20:31:02 radio2:36] Setting volume to 90
+[D 200531 20:31:02 radio2:36] Setting volume to 100
+[D 200531 20:31:07 radio2:36] Setting volume to 97
+[D 200531 20:31:08 radio2:36] Setting volume to 87
+[D 200531 20:31:08 radio2:36] Setting volume to 79
+[D 200531 20:31:08 radio2:36] Setting volume to 72
+[D 200531 20:31:09 radio2:36] Setting volume to 68
+[D 200531 20:31:09 radio2:36] Setting volume to 67
+[D 200531 20:31:09 radio2:36] Setting volume to 63
+[D 200531 20:31:11 radio2:36] Setting volume to 62
+[D 200531 20:31:11 radio2:36] Setting volume to 60
+[D 200531 20:31:11 radio2:36] Setting volume to 59
+[D 200531 20:31:12 radio2:36] Setting volume to 58
+[D 200531 20:31:12 radio2:36] Setting volume to 59
+[D 200531 20:31:13 radio2:36] Setting volume to 57
+[D 200531 20:31:13 radio2:36] Setting volume to 56
+[D 200531 20:31:13 radio2:36] Setting volume to 55
+[D 200531 20:31:15 radio2:36] Setting volume to 54
+[D 200531 20:31:15 radio2:36] Setting volume to 52
+[D 200531 20:31:15 radio2:36] Setting volume to 61
+[D 200531 20:31:15 radio2:36] Setting volume to 67
+[D 200531 20:31:16 radio2:36] Setting volume to 74
+[D 200531 20:31:16 radio2:36] Setting volume to 81
+[D 200531 20:31:17 radio2:36] Setting volume to 64
+[D 200531 20:31:17 radio2:36] Setting volume to 58
+[D 200531 20:31:17 radio2:36] Setting volume to 56
+[I 200531 20:34:41 radio2:11] Starting up the radio
+[I 200531 20:34:41 radio2:43] Playing intro
+[D 200531 20:34:45 radio2:23] Started volume thread
+[D 200531 20:34:45 radio2:36] Setting volume to 57
+[I 200531 20:35:24 radio2:11] Starting up the radio
+[I 200531 20:35:25 radio2:49] Playing intro
+[D 200531 20:35:29 radio2:29] Started volume thread
+[D 200531 20:35:29 radio2:42] Setting volume to 16
+[D 200531 20:35:31 radio2:42] Setting volume to 17
+[D 200531 20:35:31 radio2:42] Setting volume to 20
+[D 200531 20:35:32 radio2:42] Setting volume to 21
+[D 200531 20:35:32 radio2:42] Setting volume to 13
+[I 200531 20:35:34 radio2:81] Stopping current station
+[I 200531 20:35:34 radio2:85] Playing BBC Radio 2
+[I 200531 20:35:34 radio2:68] Telling volume thread to stop
+[I 200531 20:35:34 radio2:70] Joining volume_thr thread
+[I 200531 20:35:34 radio2:47] Finishing volume thread
+[I 200531 20:35:34 radio2:72] Volume thread has finished. Starting a new one
+[D 200531 20:35:34 radio2:29] Started volume thread
+[D 200531 20:35:34 radio2:42] Setting volume to 13
+[I 200531 20:35:36 radio2:81] Stopping current station
+[I 200531 20:36:32 radio2:11] Starting up the radio
+[I 200531 20:36:32 radio2:45] Playing intro
+[I 200531 20:38:03 radio2:11] Starting up the radio
+[I 200531 20:38:03 radio2:45] Playing intro
+[D 200531 20:38:07 radio2:25] Started volume thread
+[D 200531 20:38:07 radio2:38] Setting volume to 13
+[I 200531 20:39:24 radio2:11] Starting up the radio
+[I 200531 20:39:24 radio2:47] Playing intro
+[D 200531 20:39:28 radio2:27] Started volume thread
+[D 200531 20:39:28 radio2:40] Setting volume to 13
+[I 200531 20:39:41 radio2:11] Starting up the radio
+[I 200531 20:39:42 radio2:48] Playing intro
+[I 200531 20:40:31 radio2:11] Starting up the radio
+[I 200531 20:40:32 radio2:49] Playing intro
+[D 200531 20:40:35 radio2:29] Started volume thread
+[D 200531 20:40:35 radio2:42] Setting volume to 13
+[I 200531 20:40:46 radio2:85] Playing BBC Radio 2
+[I 200531 20:40:46 radio2:68] Telling volume thread to stop
+[I 200531 20:40:46 radio2:70] Joining volume_thr thread
+[I 200531 20:40:46 radio2:47] Finishing volume thread
+[I 200531 20:40:46 radio2:72] Volume thread has finished. Starting a new one
+[D 200531 20:40:46 radio2:29] Started volume thread
+[D 200531 20:40:46 radio2:42] Setting volume to 13
+[D 200531 20:40:50 radio2:42] Setting volume to 21
+[D 200531 20:40:51 radio2:42] Setting volume to 32
+[D 200531 20:40:51 radio2:42] Setting volume to 35
+[D 200531 20:40:51 radio2:42] Setting volume to 38
+[D 200531 20:40:51 radio2:42] Setting volume to 40
+[D 200531 20:40:52 radio2:42] Setting volume to 41
+[D 200531 20:40:52 radio2:42] Setting volume to 48
+[D 200531 20:40:54 radio2:42] Setting volume to 47
+[I 200531 20:40:54 radio2:89] Playing BBC Radio 4
+[I 200531 20:40:54 radio2:68] Telling volume thread to stop
+[I 200531 20:40:54 radio2:70] Joining volume_thr thread
+[I 200531 20:40:54 radio2:47] Finishing volume thread
+[I 200531 20:40:54 radio2:72] Volume thread has finished. Starting a new one
+[D 200531 20:40:54 radio2:29] Started volume thread
+[D 200531 20:40:54 radio2:42] Setting volume to 48
+[D 200531 20:40:55 radio2:42] Setting volume to 47
+[D 200531 20:40:56 radio2:42] Setting volume to 48
+[I 200531 20:40:57 radio2:81] Stopping current station
+[I 200531 20:41:00 radio2:81] Stopping current station
+[D 200531 20:41:02 radio2:42] Setting volume to 47
+[D 200531 20:41:02 radio2:42] Setting volume to 48
+[I 200531 20:41:03 radio2:85] Playing BBC Radio 2
+[I 200531 20:41:03 radio2:68] Telling volume thread to stop
+[D 200531 20:41:03 radio2:42] Setting volume to 47
+[I 200531 20:41:03 radio2:70] Joining volume_thr thread
+[I 200531 20:41:03 radio2:47] Finishing volume thread
+[I 200531 20:41:03 radio2:72] Volume thread has finished. Starting a new one
+[D 200531 20:41:03 radio2:29] Started volume thread
+[D 200531 20:41:03 radio2:42] Setting volume to 48
+[D 200531 20:41:04 radio2:42] Setting volume to 47
+[D 200531 20:41:05 radio2:42] Setting volume to 48
+[I 200531 20:41:12 radio2:11] Starting up the radio
+[I 200531 20:41:13 radio2:49] Playing intro
+[D 200531 20:41:16 radio2:29] Started volume thread
+[D 200531 20:41:16 radio2:42] Setting volume to 48
+[D 200531 20:41:17 radio2:42] Setting volume to 47
+[I 200531 20:45:39 radio2:11] Starting up the radio
+[I 200531 20:45:40 radio2:50] Playing intro
+[D 200531 20:45:43 radio2:30] Started volume thread
+[D 200531 20:45:44 radio2:43] Setting volume to 12
+[D 200531 20:45:46 radio2:43] Setting volume to 13
+[D 200531 20:45:46 radio2:43] Setting volume to 16
+[D 200531 20:45:46 radio2:43] Setting volume to 26
+[D 200531 20:45:47 radio2:43] Setting volume to 29
+[I 200531 20:45:48 radio2:82] Stopping current station
+[I 200531 20:45:48 radio2:87] Playing BBC Radio 2
+[I 200531 20:45:48 radio2:69] Telling volume thread to stop
+[I 200531 20:45:48 radio2:71] Joining volume_thr thread
+[I 200531 20:45:48 radio2:48] Finishing volume thread
+[I 200531 20:45:48 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:45:48 radio2:30] Started volume thread
+[D 200531 20:45:48 radio2:43] Setting volume to 29
+[D 200531 20:45:50 radio2:43] Setting volume to 30
+[D 200531 20:45:50 radio2:43] Setting volume to 33
+[D 200531 20:45:51 radio2:43] Setting volume to 28
+[D 200531 20:45:52 radio2:43] Setting volume to 27
+[D 200531 20:45:52 radio2:43] Setting volume to 26
+[D 200531 20:45:53 radio2:43] Setting volume to 31
+[D 200531 20:45:53 radio2:43] Setting volume to 39
+[D 200531 20:45:53 radio2:43] Setting volume to 44
+[D 200531 20:45:54 radio2:43] Setting volume to 49
+[D 200531 20:45:54 radio2:43] Setting volume to 52
+[D 200531 20:45:54 radio2:43] Setting volume to 51
+[D 200531 20:45:55 radio2:43] Setting volume to 60
+[D 200531 20:45:55 radio2:43] Setting volume to 67
+[D 200531 20:45:56 radio2:43] Setting volume to 75
+[D 200531 20:45:56 radio2:43] Setting volume to 86
+[D 200531 20:45:56 radio2:43] Setting volume to 98
+[D 200531 20:45:56 radio2:43] Setting volume to 100
+[D 200531 20:46:01 radio2:43] Setting volume to 81
+[D 200531 20:46:01 radio2:43] Setting volume to 63
+[D 200531 20:46:01 radio2:43] Setting volume to 56
+[D 200531 20:46:02 radio2:43] Setting volume to 53
+[D 200531 20:46:02 radio2:43] Setting volume to 54
+[I 200531 20:46:02 radio2:82] Stopping current station
+[D 200531 20:46:03 radio2:43] Setting volume to 53
+[D 200531 20:46:03 radio2:43] Setting volume to 54
+[D 200531 20:46:03 radio2:43] Setting volume to 53
+[I 200531 20:46:04 radio2:82] Stopping current station
+[I 200531 20:46:04 radio2:92] Playing BBC Radio 4
+[I 200531 20:46:04 radio2:69] Telling volume thread to stop
+[I 200531 20:46:04 radio2:71] Joining volume_thr thread
+[I 200531 20:46:04 radio2:48] Finishing volume thread
+[I 200531 20:46:04 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:46:04 radio2:30] Started volume thread
+[D 200531 20:46:04 radio2:43] Setting volume to 53
+[D 200531 20:46:07 radio2:43] Setting volume to 58
+[D 200531 20:46:07 radio2:43] Setting volume to 75
+[D 200531 20:46:08 radio2:43] Setting volume to 81
+[D 200531 20:46:08 radio2:43] Setting volume to 72
+[D 200531 20:46:09 radio2:43] Setting volume to 62
+[D 200531 20:46:09 radio2:43] Setting volume to 56
+[D 200531 20:46:09 radio2:43] Setting volume to 53
+[I 200531 20:46:10 radio2:82] Stopping current station
+[I 200531 20:46:11 radio2:82] Stopping current station
+[I 200531 20:46:11 radio2:97] Playing BBC Radio 3 Counties
+[I 200531 20:46:11 radio2:69] Telling volume thread to stop
+[I 200531 20:46:11 radio2:71] Joining volume_thr thread
+[I 200531 20:46:11 radio2:48] Finishing volume thread
+[I 200531 20:46:11 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:46:11 radio2:30] Started volume thread
+[D 200531 20:46:11 radio2:43] Setting volume to 53
+[D 200531 20:46:17 radio2:43] Setting volume to 54
+[D 200531 20:46:17 radio2:43] Setting volume to 55
+[D 200531 20:46:19 radio2:43] Setting volume to 60
+[D 200531 20:46:19 radio2:43] Setting volume to 65
+[D 200531 20:46:19 radio2:43] Setting volume to 70
+[D 200531 20:46:20 radio2:43] Setting volume to 73
+[D 200531 20:46:20 radio2:43] Setting volume to 74
+[D 200531 20:46:20 radio2:43] Setting volume to 75
+[D 200531 20:46:21 radio2:43] Setting volume to 68
+[D 200531 20:46:22 radio2:43] Setting volume to 62
+[D 200531 20:46:22 radio2:43] Setting volume to 58
+[D 200531 20:46:23 radio2:43] Setting volume to 59
+[D 200531 20:46:23 radio2:43] Setting volume to 65
+[D 200531 20:46:23 radio2:43] Setting volume to 58
+[D 200531 20:46:24 radio2:43] Setting volume to 59
+[D 200531 20:46:24 radio2:43] Setting volume to 58
+[D 200531 20:46:24 radio2:43] Setting volume to 59
+[D 200531 20:46:25 radio2:43] Setting volume to 58
+[I 200531 20:46:25 radio2:82] Stopping current station
+[D 200531 20:46:26 radio2:43] Setting volume to 59
+[D 200531 20:46:27 radio2:43] Setting volume to 58
+[D 200531 20:46:28 radio2:43] Setting volume to 59
+[D 200531 20:46:28 radio2:43] Setting volume to 58
+[D 200531 20:46:28 radio2:43] Setting volume to 59
+[D 200531 20:46:29 radio2:43] Setting volume to 58
+[D 200531 20:46:29 radio2:43] Setting volume to 59
+[I 200531 20:46:30 radio2:82] Stopping current station
+[I 200531 20:46:30 radio2:87] Playing BBC Radio 2
+[I 200531 20:46:30 radio2:69] Telling volume thread to stop
+[I 200531 20:46:30 radio2:71] Joining volume_thr thread
+[I 200531 20:46:30 radio2:48] Finishing volume thread
+[I 200531 20:46:30 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:46:30 radio2:30] Started volume thread
+[D 200531 20:46:30 radio2:43] Setting volume to 58
+[D 200531 20:46:30 radio2:43] Setting volume to 59
+[D 200531 20:46:31 radio2:43] Setting volume to 58
+[D 200531 20:46:31 radio2:43] Setting volume to 59
+[D 200531 20:46:32 radio2:43] Setting volume to 58
+[D 200531 20:46:32 radio2:43] Setting volume to 59
+[D 200531 20:46:32 radio2:43] Setting volume to 58
+[D 200531 20:46:33 radio2:43] Setting volume to 59
+[D 200531 20:46:33 radio2:43] Setting volume to 72
+[D 200531 20:46:33 radio2:43] Setting volume to 78
+[D 200531 20:46:34 radio2:43] Setting volume to 77
+[D 200531 20:46:34 radio2:43] Setting volume to 60
+[D 200531 20:46:34 radio2:43] Setting volume to 50
+[D 200531 20:46:35 radio2:43] Setting volume to 42
+[D 200531 20:46:35 radio2:43] Setting volume to 39
+[D 200531 20:46:36 radio2:43] Setting volume to 47
+[D 200531 20:46:36 radio2:43] Setting volume to 65
+[D 200531 20:46:36 radio2:43] Setting volume to 70
+[D 200531 20:46:37 radio2:43] Setting volume to 61
+[D 200531 20:46:37 radio2:43] Setting volume to 58
+[D 200531 20:46:40 radio2:43] Setting volume to 59
+[D 200531 20:46:40 radio2:43] Setting volume to 58
+[D 200531 20:46:41 radio2:43] Setting volume to 57
+[D 200531 20:46:41 radio2:43] Setting volume to 58
+[D 200531 20:46:44 radio2:43] Setting volume to 59
+[D 200531 20:46:44 radio2:43] Setting volume to 58
+[D 200531 20:46:47 radio2:43] Setting volume to 57
+[D 200531 20:46:47 radio2:43] Setting volume to 58
+[D 200531 20:46:48 radio2:43] Setting volume to 57
+[D 200531 20:46:48 radio2:43] Setting volume to 58
+[D 200531 20:46:50 radio2:43] Setting volume to 57
+[D 200531 20:46:50 radio2:43] Setting volume to 58
+[D 200531 20:46:52 radio2:43] Setting volume to 57
+[D 200531 20:46:52 radio2:43] Setting volume to 58
+[D 200531 20:46:53 radio2:43] Setting volume to 57
+[D 200531 20:46:53 radio2:43] Setting volume to 58
+[D 200531 20:46:55 radio2:43] Setting volume to 59
+[D 200531 20:46:55 radio2:43] Setting volume to 63
+[D 200531 20:46:55 radio2:43] Setting volume to 65
+[D 200531 20:46:56 radio2:43] Setting volume to 68
+[D 200531 20:46:56 radio2:43] Setting volume to 71
+[D 200531 20:46:57 radio2:43] Setting volume to 72
+[I 200531 20:46:57 radio2:82] Stopping current station
+[D 200531 20:46:57 radio2:43] Setting volume to 71
+[I 200531 20:48:43 radio2:11] Starting up the radio
+[I 200531 20:48:44 radio2:50] Playing intro
+[D 200531 20:48:47 radio2:30] Started volume thread
+[D 200531 20:48:47 radio2:111] Heartbeat
+[D 200531 20:48:47 radio2:43] Setting volume to 71
+[D 200531 20:48:48 radio2:43] Setting volume to 75
+[D 200531 20:48:48 radio2:43] Setting volume to 82
+[D 200531 20:48:48 radio2:111] Heartbeat
+[D 200531 20:48:49 radio2:43] Setting volume to 86
+[D 200531 20:48:49 radio2:111] Heartbeat
+[D 200531 20:48:50 radio2:43] Setting volume to 85
+[D 200531 20:48:50 radio2:111] Heartbeat
+[I 200531 20:48:51 radio2:82] Stopping current station
+[I 200531 20:48:51 radio2:87] Playing BBC Radio 2
+[I 200531 20:48:51 radio2:69] Telling volume thread to stop
+[I 200531 20:48:51 radio2:71] Joining volume_thr thread
+[I 200531 20:48:51 radio2:48] Finishing volume thread
+[I 200531 20:48:51 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:48:51 radio2:30] Started volume thread
+[D 200531 20:48:51 radio2:43] Setting volume to 85
+[D 200531 20:48:51 radio2:111] Heartbeat
+[D 200531 20:48:52 radio2:111] Heartbeat
+[D 200531 20:48:53 radio2:43] Setting volume to 77
+[D 200531 20:48:53 radio2:43] Setting volume to 72
+[D 200531 20:48:53 radio2:43] Setting volume to 68
+[D 200531 20:48:53 radio2:111] Heartbeat
+[D 200531 20:48:53 radio2:43] Setting volume to 65
+[D 200531 20:48:54 radio2:111] Heartbeat
+[I 200531 20:48:54 radio2:82] Stopping current station
+[I 200531 20:48:55 radio2:82] Stopping current station
+[I 200531 20:48:55 radio2:92] Playing BBC Radio 4
+[I 200531 20:48:55 radio2:69] Telling volume thread to stop
+[I 200531 20:48:55 radio2:71] Joining volume_thr thread
+[I 200531 20:48:55 radio2:48] Finishing volume thread
+[I 200531 20:48:55 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:48:55 radio2:30] Started volume thread
+[D 200531 20:48:55 radio2:43] Setting volume to 65
+[D 200531 20:48:55 radio2:111] Heartbeat
+[D 200531 20:48:56 radio2:111] Heartbeat
+[D 200531 20:48:57 radio2:111] Heartbeat
+[I 200531 20:48:58 radio2:82] Stopping current station
+[D 200531 20:48:58 radio2:111] Heartbeat
+[I 200531 20:49:35 radio2:11] Starting up the radio
+[I 200531 20:49:36 radio2:50] Playing intro
+[D 200531 20:49:39 radio2:30] Started volume thread
+[D 200531 20:49:39 radio2:111] Heartbeat
+[D 200531 20:49:39 radio2:43] Setting volume to 65
+[D 200531 20:49:40 radio2:111] Heartbeat
+[D 200531 20:49:41 radio2:111] Heartbeat
+[D 200531 20:49:42 radio2:111] Heartbeat
+[I 200531 20:49:42 radio2:82] Stopping current station
+[I 200531 20:49:42 radio2:87] Playing BBC Radio 2
+[I 200531 20:49:42 radio2:69] Telling volume thread to stop
+[I 200531 20:49:42 radio2:71] Joining volume_thr thread
+[I 200531 20:49:42 radio2:48] Finishing volume thread
+[I 200531 20:49:42 radio2:73] Volume thread has finished. Starting a new one
+[D 200531 20:49:42 radio2:30] Started volume thread
+[D 200531 20:49:42 radio2:43] Setting volume to 65
+[D 200531 20:49:43 radio2:43] Setting volume to 64
+[D 200531 20:49:43 radio2:43] Setting volume to 65
+[D 200531 20:49:43 radio2:111] Heartbeat
+[D 200531 20:49:44 radio2:111] Heartbeat
+[D 200531 20:49:45 radio2:111] Heartbeat
+[D 200531 20:49:46 radio2:43] Setting volume to 64
+[I 200531 20:49:46 radio2:82] Stopping current station
+[D 200531 20:49:46 radio2:43] Setting volume to 65
+[D 200531 20:49:46 radio2:111] Heartbeat
+[D 200531 20:49:47 radio2:111] Heartbeat
+[D 200531 20:49:48 radio2:111] Heartbeat
+[I 200531 20:52:09 radio2:12] Starting up the radio
+[I 200531 20:52:10 radio2:51] Playing intro
+[D 200531 20:52:13 radio2:31] Started volume thread
+[D 200531 20:52:13 radio2:112] Heartbeat
+[D 200531 20:52:13 radio2:44] Setting volume to 65
+[D 200531 20:52:15 radio2:112] Heartbeat
+[I 200531 20:52:16 radio2:83] Stopping current station
+[I 200531 20:52:16 radio2:88] Playing BBC Radio 2
+[I 200531 20:52:16 radio2:70] Telling volume thread to stop
+[I 200531 20:52:16 radio2:72] Joining volume_thr thread
+[I 200531 20:52:17 radio2:49] Finishing volume thread
+[I 200531 20:52:17 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:52:17 radio2:31] Started volume thread
+[D 200531 20:52:17 radio2:44] Setting volume to 65
+[D 200531 20:52:17 radio2:112] Heartbeat
+[D 200531 20:52:18 radio2:44] Setting volume to 64
+[I 200531 20:52:18 radio2:83] Stopping current station
+[I 200531 20:52:18 radio2:93] Playing BBC Radio 4
+[I 200531 20:52:18 radio2:70] Telling volume thread to stop
+[I 200531 20:52:18 radio2:72] Joining volume_thr thread
+[I 200531 20:52:18 radio2:49] Finishing volume thread
+[I 200531 20:52:18 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:52:18 radio2:31] Started volume thread
+[D 200531 20:52:18 radio2:44] Setting volume to 65
+[D 200531 20:52:19 radio2:112] Heartbeat
+[I 200531 20:52:20 radio2:83] Stopping current station
+[I 200531 20:52:20 radio2:98] Playing BBC Radio 3 Counties
+[I 200531 20:52:20 radio2:70] Telling volume thread to stop
+[I 200531 20:52:20 radio2:72] Joining volume_thr thread
+[I 200531 20:52:20 radio2:49] Finishing volume thread
+[I 200531 20:52:20 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:52:20 radio2:31] Started volume thread
+[D 200531 20:52:20 radio2:44] Setting volume to 65
+[D 200531 20:52:21 radio2:112] Heartbeat
+[I 200531 20:52:21 radio2:115] Shutting down
+[I 200531 20:57:06 radio2:12] Starting up the radio
+[I 200531 20:57:07 radio2:51] Playing intro
+[D 200531 20:57:10 radio2:31] Started volume thread
+[D 200531 20:57:10 radio2:112] Heartbeat
+[D 200531 20:57:10 radio2:44] Setting volume to 65
+[I 200531 20:57:10 radio2:115] Shutting down
+[I 200531 20:58:35 radio2:12] Starting up the radio
+[I 200531 20:58:35 radio2:51] Playing intro
+[D 200531 20:58:39 radio2:31] Started volume thread
+[D 200531 20:58:39 radio2:112] Heartbeat
+[D 200531 20:58:39 radio2:44] Setting volume to 65
+[D 200531 20:58:41 radio2:112] Heartbeat
+[D 200531 20:58:43 radio2:112] Heartbeat
+[D 200531 20:58:45 radio2:112] Heartbeat
+[D 200531 20:58:47 radio2:44] Setting volume to 64
+[D 200531 20:58:47 radio2:112] Heartbeat
+[D 200531 20:58:47 radio2:44] Setting volume to 65
+[D 200531 20:58:49 radio2:44] Setting volume to 64
+[D 200531 20:58:49 radio2:44] Setting volume to 65
+[D 200531 20:58:49 radio2:112] Heartbeat
+[D 200531 20:58:50 radio2:44] Setting volume to 64
+[D 200531 20:58:50 radio2:44] Setting volume to 65
+[D 200531 20:58:51 radio2:112] Heartbeat
+[D 200531 20:58:53 radio2:112] Heartbeat
+[D 200531 20:58:55 radio2:44] Setting volume to 64
+[D 200531 20:58:55 radio2:44] Setting volume to 65
+[D 200531 20:58:55 radio2:44] Setting volume to 64
+[D 200531 20:58:55 radio2:112] Heartbeat
+[D 200531 20:58:56 radio2:44] Setting volume to 65
+[D 200531 20:58:57 radio2:112] Heartbeat
+[D 200531 20:58:59 radio2:112] Heartbeat
+[D 200531 20:58:59 radio2:44] Setting volume to 64
+[D 200531 20:59:00 radio2:44] Setting volume to 65
+[D 200531 20:59:01 radio2:44] Setting volume to 64
+[D 200531 20:59:01 radio2:112] Heartbeat
+[D 200531 20:59:01 radio2:44] Setting volume to 65
+[D 200531 20:59:03 radio2:112] Heartbeat
+[D 200531 20:59:05 radio2:44] Setting volume to 64
+[D 200531 20:59:05 radio2:44] Setting volume to 65
+[D 200531 20:59:05 radio2:112] Heartbeat
+[D 200531 20:59:06 radio2:44] Setting volume to 64
+[D 200531 20:59:06 radio2:44] Setting volume to 65
+[D 200531 20:59:07 radio2:44] Setting volume to 64
+[D 200531 20:59:07 radio2:112] Heartbeat
+[D 200531 20:59:07 radio2:44] Setting volume to 65
+[D 200531 20:59:09 radio2:112] Heartbeat
+[D 200531 20:59:11 radio2:112] Heartbeat
+[D 200531 20:59:13 radio2:112] Heartbeat
+[D 200531 20:59:15 radio2:44] Setting volume to 64
+[D 200531 20:59:15 radio2:44] Setting volume to 65
+[D 200531 20:59:15 radio2:112] Heartbeat
+[D 200531 20:59:16 radio2:44] Setting volume to 64
+[D 200531 20:59:16 radio2:44] Setting volume to 65
+[D 200531 20:59:17 radio2:112] Heartbeat
+[D 200531 20:59:19 radio2:44] Setting volume to 66
+[D 200531 20:59:19 radio2:112] Heartbeat
+[D 200531 20:59:20 radio2:44] Setting volume to 65
+[D 200531 20:59:21 radio2:112] Heartbeat
+[D 200531 20:59:23 radio2:44] Setting volume to 66
+[I 200531 20:59:23 radio2:83] Stopping current station
+[I 200531 20:59:23 radio2:88] Playing BBC Radio 2
+[I 200531 20:59:23 radio2:70] Telling volume thread to stop
+[I 200531 20:59:23 radio2:72] Joining volume_thr thread
+[I 200531 20:59:23 radio2:49] Finishing volume thread
+[I 200531 20:59:23 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:59:23 radio2:31] Started volume thread
+[D 200531 20:59:23 radio2:44] Setting volume to 65
+[D 200531 20:59:23 radio2:112] Heartbeat
+[D 200531 20:59:23 radio2:44] Setting volume to 64
+[D 200531 20:59:24 radio2:44] Setting volume to 65
+[D 200531 20:59:25 radio2:112] Heartbeat
+[I 200531 20:59:27 radio2:83] Stopping current station
+[I 200531 20:59:27 radio2:83] Stopping current station
+[I 200531 20:59:27 radio2:93] Playing BBC Radio 4
+[I 200531 20:59:27 radio2:70] Telling volume thread to stop
+[I 200531 20:59:27 radio2:72] Joining volume_thr thread
+[D 200531 20:59:27 radio2:112] Heartbeat
+[I 200531 20:59:27 radio2:49] Finishing volume thread
+[I 200531 20:59:27 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:59:27 radio2:31] Started volume thread
+[D 200531 20:59:27 radio2:44] Setting volume to 65
+[D 200531 20:59:29 radio2:44] Setting volume to 64
+[D 200531 20:59:29 radio2:44] Setting volume to 65
+[D 200531 20:59:29 radio2:112] Heartbeat
+[I 200531 20:59:31 radio2:83] Stopping current station
+[D 200531 20:59:31 radio2:112] Heartbeat
+[D 200531 20:59:32 radio2:44] Setting volume to 64
+[I 200531 20:59:32 radio2:83] Stopping current station
+[I 200531 20:59:32 radio2:98] Playing BBC Radio 3 Counties
+[I 200531 20:59:32 radio2:70] Telling volume thread to stop
+[I 200531 20:59:32 radio2:72] Joining volume_thr thread
+[I 200531 20:59:32 radio2:49] Finishing volume thread
+[I 200531 20:59:32 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:59:32 radio2:31] Started volume thread
+[D 200531 20:59:32 radio2:44] Setting volume to 65
+[D 200531 20:59:33 radio2:112] Heartbeat
+[I 200531 20:59:34 radio2:83] Stopping current station
+[I 200531 20:59:35 radio2:93] Playing BBC Radio 4
+[I 200531 20:59:35 radio2:70] Telling volume thread to stop
+[I 200531 20:59:35 radio2:72] Joining volume_thr thread
+[I 200531 20:59:35 radio2:49] Finishing volume thread
+[I 200531 20:59:35 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:59:35 radio2:31] Started volume thread
+[D 200531 20:59:35 radio2:44] Setting volume to 65
+[D 200531 20:59:35 radio2:112] Heartbeat
+[I 200531 20:59:36 radio2:83] Stopping current station
+[I 200531 20:59:36 radio2:88] Playing BBC Radio 2
+[I 200531 20:59:36 radio2:70] Telling volume thread to stop
+[I 200531 20:59:36 radio2:72] Joining volume_thr thread
+[I 200531 20:59:37 radio2:49] Finishing volume thread
+[I 200531 20:59:37 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 20:59:37 radio2:31] Started volume thread
+[D 200531 20:59:37 radio2:44] Setting volume to 65
+[D 200531 20:59:37 radio2:44] Setting volume to 64
+[D 200531 20:59:37 radio2:112] Heartbeat
+[I 200531 20:59:37 radio2:115] Shutting down
+[D 200531 20:59:38 radio2:44] Setting volume to 65
+[D 200531 20:59:39 radio2:44] Setting volume to 64
+[D 200531 20:59:40 radio2:44] Setting volume to 65
+[I 200531 21:06:48 radio2:12] Starting up the radio
+[I 200531 21:06:49 radio2:51] Playing intro
+[D 200531 21:06:52 radio2:31] Started volume thread
+[D 200531 21:06:52 radio2:112] Heartbeat
+[D 200531 21:06:52 radio2:44] Setting volume to 65
+[D 200531 21:06:54 radio2:112] Heartbeat
+[I 200531 21:06:55 radio2:83] Stopping current station
+[I 200531 21:06:55 radio2:88] Playing BBC Radio 2
+[I 200531 21:06:55 radio2:70] Telling volume thread to stop
+[I 200531 21:06:55 radio2:72] Joining volume_thr thread
+[I 200531 21:06:55 radio2:49] Finishing volume thread
+[I 200531 21:06:55 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 21:06:55 radio2:31] Started volume thread
+[D 200531 21:06:55 radio2:44] Setting volume to 65
+[D 200531 21:06:56 radio2:112] Heartbeat
+[D 200531 21:06:57 radio2:44] Setting volume to 64
+[D 200531 21:06:57 radio2:44] Setting volume to 65
+[D 200531 21:06:58 radio2:44] Setting volume to 57
+[D 200531 21:06:58 radio2:44] Setting volume to 48
+[D 200531 21:06:58 radio2:112] Heartbeat
+[D 200531 21:06:58 radio2:44] Setting volume to 41
+[D 200531 21:06:59 radio2:44] Setting volume to 32
+[D 200531 21:06:59 radio2:44] Setting volume to 39
+[D 200531 21:07:00 radio2:44] Setting volume to 43
+[D 200531 21:07:00 radio2:44] Setting volume to 44
+[D 200531 21:07:00 radio2:44] Setting volume to 58
+[D 200531 21:07:00 radio2:112] Heartbeat
+[D 200531 21:07:01 radio2:44] Setting volume to 66
+[D 200531 21:07:01 radio2:44] Setting volume to 67
+[D 200531 21:07:01 radio2:44] Setting volume to 49
+[D 200531 21:07:02 radio2:44] Setting volume to 39
+[I 200531 21:07:02 radio2:83] Stopping current station
+[I 200531 21:07:02 radio2:93] Playing BBC Radio 4
+[I 200531 21:07:02 radio2:70] Telling volume thread to stop
+[I 200531 21:07:02 radio2:72] Joining volume_thr thread
+[D 200531 21:07:02 radio2:112] Heartbeat
+[I 200531 21:07:02 radio2:49] Finishing volume thread
+[I 200531 21:07:02 radio2:74] Volume thread has finished. Starting a new one
+[D 200531 21:07:02 radio2:31] Started volume thread
+[D 200531 21:07:02 radio2:44] Setting volume to 39
+[D 200531 21:07:03 radio2:44] Setting volume to 40
+[D 200531 21:07:03 radio2:44] Setting volume to 39
+[D 200531 21:07:04 radio2:44] Setting volume to 43
+[D 200531 21:07:04 radio2:44] Setting volume to 54
+[D 200531 21:07:04 radio2:112] Heartbeat
+[I 200531 21:07:04 radio2:115] Shutting down
+[I 200531 21:07:04 radio2:83] Stopping current station
+[D 200531 21:07:05 radio2:44] Setting volume to 65
+[D 200531 21:07:06 radio2:44] Setting volume to 64
+[D 200531 21:07:06 radio2:44] Setting volume to 53
