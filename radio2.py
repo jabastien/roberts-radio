@@ -11,7 +11,7 @@ import os
 # Initialise the log file if wanted
 #logfile("radio.log")
 
-# Initial start-up message
+# Initial start-up log
 logger.info("Starting up the radio")
 
 # Set GPIO inputs
@@ -26,6 +26,7 @@ button3_down = Button(6)
 button4_up = Button(13)
 button4_down = Button(26)
 
+# Thread variable to keep you in the loop
 volume_thread_continue = True
 
 # Function to get absolute value from potentiometer device
@@ -39,14 +40,17 @@ def get_abs_from_pot(pot):
 
     return abs_value
 
+# Generic thread to control a player's volume according to a pot value
 def volume_thread(pot, player):
     global volume_thread_continue
 
     logger.debug("Started volume thread")
 
+    # Default volume setting
     volume_setting = 30
     vlc.libvlc_audio_set_volume(player, volume_setting)
 
+    # Keep re-setting the volume according to pot value unless you haven't moved the dial
     while volume_thread_continue:
         last_volume_setting = volume_setting
 
@@ -56,6 +60,7 @@ def volume_thread(pot, player):
             logger.debug("Setting volume to " + str(volume_setting))
             vlc.libvlc_audio_set_volume(player, volume_setting)
 
+        # Shutdown control section
         # If volume is 0 and remains so for 5 seconds, shutdown with a countdown
         if volume_setting == 0:
             shutdown_setting = True
@@ -63,20 +68,25 @@ def volume_thread(pot, player):
 
             while shutdown_setting:
                 volume_setting = get_abs_from_pot(pot)
+
+                # If volume changes, abort the shutdown sequence
                 if volume_setting != 0:
                     shutdown_setting = False
                 else:
-                    shutdown_counter = shutdown_counter - 1
                     say("Shut down in " + str(shutdown_counter) + " seconds")
+                    shutdown_counter = shutdown_counter - 1
                     sleep(1)
 
+                    # If you've reached zero, shutdown the radio
                     if shutdown_counter == 0:
                         shutdown()
 
+        # Don't overload the Pi by infinite loop with no delay
         sleep(0.3)
 
     logger.info("Finishing volume thread")
 
+# Plays a stream and resets the volume thread
 def play_stream(stream_url):
     global player
     global volume_thr
@@ -84,26 +94,31 @@ def play_stream(stream_url):
 
     logger.info("Playing stream: " + stream_url)
 
+    # Use python-vlc to create a media player
     player = vlc.MediaPlayer(stream_url)
     vlc.libvlc_audio_set_volume(player, 30)
     player.play()
 
+    # Shutdown previous volume thread
     logger.info("Telling volume thread to stop")
     volume_thread_continue = False
     logger.info("Joining volume_thr thread")
     volume_thr.join()
     logger.info("Volume thread has finished. Starting a new one")
 
+    # Start new volume thread
     volume_thread_continue = True
     volume_thr = threading.Thread(target=volume_thread, args=(volume_pot, player), daemon=True)
     volume_thr.start()
 
+# Just stops the current stream
 def stop_stream():
     global player
 
     logger.info("Stopping current station")
     player.stop()
 
+# Play individual stations (on button presses)
 def play_radio_2():
     stop_stream()
     say("BBC Radio 2")
@@ -122,11 +137,14 @@ def play_radio_3cr():
     logger.info("Playing BBC Radio 3 Counties")
     play_stream("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lr3cr_mf_p")
 
+# Button 4 uses the tuner knob to select a station
 def play_other():
     enabled = True
 
+    # Helps us work out channel changes
     last_channel = 0
 
+    # Always read the instructions!
     say("Use the tuner to select a station")
 
     while enabled:
@@ -134,8 +152,8 @@ def play_other():
             # Stream SHOULD stop as a result of the button-up, so no need to stop it here
             enabled = False
 
+        # Get adjusted pot value from the tuning knob
         tuner = get_abs_from_pot(tuning_pot)
-        logger.info(tuner)
 
         # Specify channel number ranges (must be a better way to do this!)
         if tuner >= 0 and tuner <= 10:
@@ -164,6 +182,7 @@ def play_other():
             last_channel = channel
             stop_stream()
 
+            # Channel to stream IF statements
             if channel == 1:
                 # Film music
                 say("Film music")
@@ -201,9 +220,11 @@ def play_other():
 
         sleep(0.3)
 
+# Run a string through espeak
 def say(sentence):
     os.system("espeak -a 20 -s 100 '" + sentence + "'")
 
+# Shutdown the Pi gracefully
 def shutdown():
     logger.info("Shutting down")
     stop_stream()
@@ -221,7 +242,7 @@ def shutdown():
     exit(0)
 
 
-# Define button auto-threads
+# Define button actions as auto-threads
 button1_down.when_pressed = play_radio_2
 button1_up.when_pressed = stop_stream
 
@@ -249,4 +270,5 @@ say("Welcome to the Roberts Radio Project")
 volume_thr = threading.Thread(target=volume_thread, args=(volume_pot, player), daemon=True)
 volume_thr.start()
 
+# Don't let the program exit - it's all in threaded control now
 pause()
