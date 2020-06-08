@@ -229,7 +229,7 @@ def say_espeak(sentence):
 
 # Run a string through pico-tts
 def say_pico(sentence):
-    os.system('pico2wave --lang="en-GB" -w stdout.wav "' + sentence + '" | aplay')
+    os.system('pico2wave --lang="en-GB" -w /home/pi/roberts-radio/stdout.wav "' + sentence + '" | aplay')
 
 # Wrapper so we can centrally change the speech synthesiser
 def say(sentence):
