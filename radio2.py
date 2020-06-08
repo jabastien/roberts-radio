@@ -29,6 +29,9 @@ button4_down = Button(26)
 # Thread variable to keep you in the loop
 volume_thread_continue = True
 
+# Specify speech synthesizer
+speech_engine = "pico" # espeak or pico
+
 # Function to get absolute value from potentiometer device
 # The pots operate "backwards" - turn it all the way to the left = 1,
 # all the way to the right = 0. So we need to reverse it as well as
@@ -221,8 +224,19 @@ def play_other():
         sleep(0.3)
 
 # Run a string through espeak
+def say_espeak(sentence):
+    os.system('espeak -a 40 -s 100 "' + sentence + '"')
+
+# Run a string through pico-tts
+def say_pico(sentence):
+    os.system('pico2wave --lang="en-GB" -w stdout.wav "' + sentence + '" | aplay')
+
+# Wrapper so we can centrally change the speech synthesiser
 def say(sentence):
-    os.system("espeak -a 20 -s 100 '" + sentence + "'")
+    if speech_engine == "espeak":
+        say_espeak(sentence)
+    elif speech_engine == "pico":
+        say_pico(sentence)
 
 # Shutdown the Pi gracefully
 def shutdown():
