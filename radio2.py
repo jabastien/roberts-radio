@@ -5,8 +5,8 @@ from signal import pause
 from math import ceil
 import threading
 from logzero import logger, logfile
-import subprocess
 import os
+import subprocess
 
 # Initialise the log file if wanted
 #logfile("radio.log")
@@ -68,17 +68,20 @@ def volume_thread(pot, player):
         if volume_setting == 0:
             shutdown_setting = True
             shutdown_counter = 5
+            set_sys_volume()
+
+            say("Shut down requested")
 
             while shutdown_setting:
                 volume_setting = get_abs_from_pot(pot)
 
                 # If volume changes, abort the shutdown sequence
                 if volume_setting != 0:
+                    say("Shut down aborted")
                     shutdown_setting = False
                 else:
-                    say("Shut down in " + str(shutdown_counter) + " seconds")
+                    say(str(shutdown_counter))
                     shutdown_counter = shutdown_counter - 1
-                    sleep(1)
 
                     # If you've reached zero, shutdown the radio
                     if shutdown_counter == 0:
@@ -233,17 +236,23 @@ def say_pico(sentence):
 
 # Wrapper so we can centrally change the speech synthesiser
 def say(sentence):
+    logger.info("Saying '" + sentence + "'")
+
     if speech_engine == "espeak":
         say_espeak(sentence)
     elif speech_engine == "pico":
         say_pico(sentence)
+
+# Function to set the amixer volume to a certain level
+def set_sys_volume():
+    os.system("amixer sset 'Master' 30%")
 
 # Shutdown the Pi gracefully
 def shutdown():
     logger.info("Shutting down")
     stop_stream()
 
-    say("Shut down")
+    say("Shutting down now")
 
     player = vlc.MediaPlayer("/home/pi/roberts-radio/media/shutdown.mp3")
     # Nice and lound
@@ -268,6 +277,10 @@ button3_up.when_pressed = stop_stream
 
 button4_down.when_pressed = play_other
 button4_up.when_pressed = stop_stream
+
+# Set system volume
+sys_vol_thr = threading.Thread(target=set_sys_volume, daemon=True)
+sys_vol_thr.start()
 
 # Play an intro sound so we know it's booted up. We could get it to "say" it's IP address eventually!
 logger.info("Playing intro")
